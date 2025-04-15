@@ -3,6 +3,7 @@ import "./index.css";
 
 const projects = [
   { name: "Mug", difficulty: "Easy", image: "https://via.placeholder.com/150" },
+   { name: "Cup", difficulty: "Easy", image: "https://www.rosenfieldcollection.com/wp-content/uploads/gravity_forms/1-92d5fbfe3510109f1716498fb3f34f27/2025/02/c1490f1.jpeg" },
   { name: "Vase", difficulty: "Medium", image: "https://via.placeholder.com/150" },
   { name: "Teapot", difficulty: "Hard", image: "https://via.placeholder.com/150" },
 ];
