@@ -2,10 +2,10 @@ import { useState } from "react";
 import "./index.css";
 
 const projects = [
-  { name: "Mug", difficulty: "Easy", image: "https://via.placeholder.com/150" },
+  { name: "Mug", difficulty: "Easy", image: "https://www.rosenfieldcollection.com/wp-content/uploads/2023/12/cps41f-1536x1024.jpeg" },
    { name: "Cup", difficulty: "Easy", image: "https://www.rosenfieldcollection.com/wp-content/uploads/gravity_forms/1-92d5fbfe3510109f1716498fb3f34f27/2025/02/c1490f1.jpeg" },
-  { name: "Vase", difficulty: "Medium", image: "https://via.placeholder.com/150" },
-  { name: "Teapot", difficulty: "Hard", image: "https://via.placeholder.com/150" },
+  { name: "Vase", difficulty: "Medium", image: "https://www.rosenfieldcollection.com/wp-content/uploads/2023/08/v266ff-1536x1024.jpeg" },
+  { name: "Teapot", difficulty: "Hard", image: "https://www.rosenfieldcollection.com/wp-content/uploads/2022/11/t121f-1536x1024.jpeg" },
 ];
 
 export default function App() {
